@@ -5,10 +5,10 @@
 # 🎓 Online Examination System
 
 <p align="center">
-  <a href="https://github.com/ash3422w/Online-Exam-System/releases/latest">
+  <a href="https://github.com/navaneeth2205/Online-Exam-System/releases/latest">
     <img src="https://img.shields.io/badge/Release-v1.1.0-3b82f6?style=for-the-badge&logo=github&logoColor=white" alt="Latest Release" />
   </a>
-  <a href="https://github.com/ash3422w/Online-Exam-System/releases/download/v1.1.0/OnlineExamSystem-v1.1.0-Windows.zip">
+  <a href="https://github.com/navaneeth2205/Online-Exam-System/releases/download/v1.1.0/OnlineExamSystem-v1.1.0-Windows.zip">
     <img src="https://img.shields.io/badge/Download-Standalone%20App%20(ZIP)-10b981?style=for-the-badge&logo=windows&logoColor=white" alt="Download Windows Release" />
   </a>
   <img src="https://img.shields.io/badge/Java-17%2B-f97316?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 17+" />
@@ -190,7 +190,7 @@ Default Package
 ## ⚡ Quick Start & Run Guide
 
 ### 📦 Standalone Release (Ready to Run)
-1. Download the latest pre-packaged bundle: [**OnlineExamSystem-v1.1.0-Windows.zip**](https://github.com/ash3422w/Online-Exam-System/releases/download/v1.1.0/OnlineExamSystem-v1.1.0-Windows.zip)
+1. Download the latest pre-packaged bundle: [**OnlineExamSystem-v1.1.0-Windows.zip**](https://github.com/navaneeth2205/Online-Exam-System/releases/download/v1.1.0/OnlineExamSystem-v1.1.0-Windows.zip)
 2. Extract the archive into any folder.
 3. Import `sql/database_setup.sql` into your local MySQL server (port 3306).
 4. Double-click `run.bat` or `OnlineExamSystem.jar` to start!
